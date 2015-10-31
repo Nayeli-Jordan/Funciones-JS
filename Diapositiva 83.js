@@ -1,7 +1,7 @@
-Diapositiva 83
+//Diapositiva 83
 
 
-Utilizando la estructura for, crear un script que calcule el factorial de un número entero.
+//Utilizando la estructura for, crear un script que calcule el factorial de un número entero.
 
 
 var numero = prompt("Introduce un número y se mostrará su factorial");

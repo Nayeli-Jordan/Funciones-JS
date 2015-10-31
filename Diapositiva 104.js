@@ -1,6 +1,6 @@
-Diapositiva 104
+//Diapositiva 104
 
-Encuentra el mail de una coder:
+//Encuentra el mail de una coder:
 
 
     var julia = {
@@ -51,7 +51,7 @@ email();
 
 
 
-Agrega dos coders nuevas al arreglo “coders”. Una al principio del arreglo y otra al final del arreglo.
+//Agrega dos coders nuevas al arreglo “coders”. Una al principio del arreglo y otra al final del arreglo.
 
 var coders = [
     {
@@ -99,7 +99,7 @@ console.log(coders);
 
 
 
-Escribe una función en la que el usuario ingrese el nombre de una coder y le devuelva el email de esa coder.
+//Escribe una función en la que el usuario ingrese el nombre de una coder y le devuelva el email de esa coder.
 
     var julia = {
         nombre: "Julia",
@@ -149,7 +149,7 @@ email();
 
 
 
-Ayer fue el cumpleaños de Constanza, actualiza su edad.
+//Ayer fue el cumpleaños de Constanza, actualiza su edad.
 
 
     var julia = {
@@ -196,7 +196,7 @@ cumple();
 
 
 
-Por favor, corrige el mail de Claudia.
+//Por favor, corrige el mail de Claudia.
 
 var emailclaudia = ("caudia@mexico.la");
 emailclaudia = emailclaudia.replace("caudia@mexico.la", "claudia@mexico.la");

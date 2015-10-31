@@ -1,6 +1,6 @@
-Diapositiva 74
+//Diapositiva 74
 
-1. Escribe una función que suma todos los dígitos en un array y otra que multiplique todos los números de otra array.
+//1. Escribe una función que suma todos los dígitos en un array y otra que multiplique todos los números de otra array.
 
 var valores = [4, 5, 2, 6, 8, 2];
 
@@ -16,7 +16,7 @@ console.log(numero1*numero2*numero3*numero4*numero5*numero6);
 
 
 
-2. Escribe una función que tome un string y lo devuelva reverso.
+//2. Escribe una función que tome un string y lo devuelva reverso.
 
 var animals = ["perro", "gato", "torutuga", "pez"];
 animals.reverse();
@@ -25,7 +25,7 @@ console.log(animals);
 
 
 
-3. Escribe una función que tome como argumento una palabra y devuelva la palabra escrita en reversa. 
+//3. Escribe una función que tome como argumento una palabra y devuelva la palabra escrita en reversa. 
 
 var cadena = "palabra",
     separador = "",
@@ -36,7 +36,7 @@ console.log(arregloDeSubCadenas);
 
 
 
-4. Escribe una función que tome como argumento un array de palabras y devuelva la que tiene mayor longitud.
+//4. Escribe una función que tome como argumento un array de palabras y devuelva la que tiene mayor longitud.
 
 var mensaje = "Hola mundo";
 var palabras = mensaje.split(" ");

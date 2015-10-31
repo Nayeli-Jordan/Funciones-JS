@@ -1,9 +1,9 @@
-Diapositiva 102:
+//Diapositiva 102:
 
 
-Cómo representarías los siguientes datos en un objeto:
-Toyota, Corolla, 2015, Azul, Luis Perez, true, 30000
-Hamburguesa casera, 15 minutos, 4 porciones, pan, carne, tomate, lechuga, mayonesa, queso.
+//Cómo representarías los siguientes datos en un objeto:
+//Toyota, Corolla, 2015, Azul, Luis Perez, true, 30000
+//Hamburguesa casera, 15 minutos, 4 porciones, pan, carne, tomate, lechuga, mayonesa, queso.
 
 
 
@@ -25,16 +25,15 @@ var miobjeto = {
 miobjeto.saludo();
 
 
----------------------------------------------------------------------------------------------------------------------------------
+//---------------------------------------------------------------------------------------------------------------------------------
 
-Usando una combinación de Objetos y Arreglos. ¿Cómo guardarías la siguiente data?
-Compaq, 2005, Windows XP, 15 pulgadas, Vanesa Garcia
-HP, 2003, Linux, 13 pulgadas, Luisa Francia
-Sony, 2004, Windows 7, 14 pulgadas, Julia Fernandez
-Asus, 2002, Windows XP, 15 pulgadas, Vanesa Garcia
-Toshiba, 2008, Windows 10, 10 pulgadas, María Reyes
-Apple, 2014, OSX, 13 pulgadas, Fernanda Ramos
-
+//Usando una combinación de Objetos y Arreglos. ¿Cómo guardarías la siguiente data?
+//Compaq, 2005, Windows XP, 15 pulgadas, Vanesa Garcia
+//HP, 2003, Linux, 13 pulgadas, Luisa Francia
+//Sony, 2004, Windows 7, 14 pulgadas, Julia Fernandez
+//Asus, 2002, Windows XP, 15 pulgadas, Vanesa Garcia
+//Toshiba, 2008, Windows 10, 10 pulgadas, María Reyes
+//
 
 
 var computadoras = [
